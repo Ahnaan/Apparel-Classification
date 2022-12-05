@@ -11,6 +11,7 @@ Taking the example of Google Images, when you search for anything, it returns a 
 So, the idea of classification and keyword extraction is widely used in image related websites and companies. 
 Using a dataset from Kaggle, we will try to correctly predict the classes using Computer Vision techniques and applications. 
 
-<b>Dataset Link</b>: https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset
+<b>Dataset Link</b>: https://www.kaggle.com/datasets/trolukovich/apparel-images-dataset<br>
+From the dataset, we have taken 2 colours and 5 apparels from each of the colours: black and blue.
 
 <b>Note: The pdf file contains a detailed analysis of this project</b>
